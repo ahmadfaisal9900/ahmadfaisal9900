@@ -11,11 +11,3 @@ A Final Year Electrical Engineering Student interested in Machine/Deep Learning.
 ![](https://github-readme-stats.vercel.app/api?username=ahmadfaisal9900&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmadfaisal9900&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfaisal9900&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=ahmadfaisal9900&icon=9&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
