@@ -1,5 +1,5 @@
 #  About Me:
-A Final Year Electrical Engineering Student interested in Machine/Deep Learning. <br>Currently focusing on implementing Reinforcement Learning for 6G Networks.
+EE Grad, 6G and AI.
 
 
 ## Socials:
