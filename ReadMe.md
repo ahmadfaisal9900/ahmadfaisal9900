@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src=".lofi.png" />
+  <img height="150" src="lofi.png" />
 </div>
 
 ###
