@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="lofi.png" />
-</div>
-
 ###
 
 <div align="center">
